@@ -1,0 +1,6 @@
+{
+  "name": "GraphRAG Benchmark Dashboard",
+  "description": "A side-by-side benchmark dashboard comparing LLM-Only, Basic RAG, and GraphRAG pipelines for the TigerGraph Inference Hackathon. Includes the generated Python codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
